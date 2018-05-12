@@ -1,0 +1,34 @@
+_repo: By-Earthlight_33842
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 33842-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Walton, Bryce
+    alias: O'Hara, Kenneth
+    birthdate: 1918
+    deathdate: 1988
+    gutenberg_agent_id: '33100'
+    url: http://www.gutenberg.org/2009/agents/33100
+    wikipedia: http://en.wikipedia.org/wiki/Bryce_Walton
+description: Humanity is poised for a major technological breakthrough with the introduction
+  and maiden voyage of a state-of-the-art rocket. But in the days leading up to the
+  launch, a nefarious plot is hatched that could prove to be the world''s undoing.
+  Will the conspirators get caught before it''s too late?
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2010-10-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33842'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Space flight to the moon -- Fiction'
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+title: By Earthlight
+url: http://www.gutenberg.org/ebooks/33842
